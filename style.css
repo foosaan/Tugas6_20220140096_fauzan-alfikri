@@ -1,0 +1,42 @@
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(https://www.behance.net/gallery/187920253/EUPHORIA-30/modules/1062618575);
+  margin: 0;
+  padding: 0;
+  background-color: #8e8e8e;
+}
+
+h1 {
+  font-family: "Great Vibes", cursive;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Lobster Two" cursive;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgb(131, 113, 96);
+  background: rgb(77, 139, 255);
+  color: #ffffff;
+  box-shadow: 1px 1px 2px #e41d1d;
+  border-radius: 10px;
+  padding: 3px 10px;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
